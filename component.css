@@ -17,10 +17,11 @@
 
 footer{
   padding-top: 30px;
+	padding-left:30px;
 }
 /* Tambahkan CSS untuk tag <img> yang berada didalam <footer> */
 footer img{
-  width:125px;
+  width:200px;
 }
 
 /* Tambahkan CSS untuk tag <p> yang berada didalam <footer> */
