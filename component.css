@@ -15,6 +15,19 @@
 }
 
 /* Icomoon.com */
+footer{
+  padding-top: 30px;
+}
+/* Tambahkan CSS untuk tag <img> yang berada didalam <footer> */
+footer img{
+  width:125px;
+}
+
+/* Tambahkan CSS untuk tag <p> yang berada didalam <footer> */
+footer p{
+  color:#b3aeb5;
+  font-size:12px;
+}
 
 .gn-menu-main,
 .gn-menu-main ul {
