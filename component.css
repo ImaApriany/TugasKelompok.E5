@@ -14,10 +14,7 @@
 		src: url("../fonts/ecoicons/ecoicons.eot?#iefix") format("embedded-opentype"), url("../fonts/ecoicons/ecoicons.woff") format("woff"), url("../fonts/ecoicons/ecoicons.ttf") format("truetype"), url("../fonts/ecoicons/ecoicons.svg#ecoicons") format("svg");
 }
 
-.container {
-  width: 1170px;
-  margin: 0 auto;
-}
+
 footer{
   padding-top: 30px;
 }
